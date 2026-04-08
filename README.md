@@ -172,6 +172,7 @@ greenhouse/
 ## 🧑‍💻 Author
 
 Built as an academic/personal project demonstrating IoT-based smart agriculture.
+Locahana Rajapaksha
 
 ---
 
